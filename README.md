@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Harsh Sharma
-**Computer Science Engineering Student | Machine Learning & Full-Stack Enthusiast**
+**Computer Science Engineering Student | Machine Learning & Data Science Enthusiast**
 
 Email Me 👉 ✉️ **maharshsharma89@gmail.com** for collaborations, projects, or technical discussions! 😊
 
@@ -8,11 +8,11 @@ Email Me 👉 ✉️ **maharshsharma89@gmail.com** for collaborations, projects,
 ### 🔭 About Me & Current Focus
 
 - 💼 **Education:** Pursuing B.Tech in Computer Science Engineering at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore (2022-2026).
-- 🔭 **I’m currently working on:** Training and optimizing predictive models while strengthening my frontend development skills.
-- 🌱 **I’m currently learning:** Advanced Deep Learning architectures (ANNs), complex Data Preprocessing pipelines, and React.js.
-- 👯 **I’m looking to collaborate on:** Open-source projects in AI/ML, Data Science, and Smart Web Portals.
-- 🤔 **I’m looking for help with:** Scalable model deployment and advanced cloud database integrations.
-- 💬 **Ask me about:** Python, Machine Learning workflows, Exploratory Data Analysis (EDA), and UI/UX structuring.
+- 🔭 **I’m currently working on:** Training and optimizing predictive ML models and core data analysis pipelines.
+- 🌱 **I’m currently learning:** Advanced Deep Learning architectures (ANNs) and complex Data Preprocessing pipelines.
+- 👯 **I’m looking to collaborate on:** Open-source projects in AI/ML, Data Analytics, and predictive modeling.
+- 🤔 **I’m looking for help with:** Scalable model deployment and advanced data visualization techniques.
+- 💬 **Ask me about:** Python, Machine Learning workflows, Exploratory Data Analysis (EDA), and SQL query optimization.
 
 ---
 
@@ -29,8 +29,8 @@ Email Me 👉 ✉️ **maharshsharma89@gmail.com** for collaborations, projects,
 #### 🧠 AI / ML & Data Science
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/ANN%20--%20Deep%20Learning-orange?style=for-the-badge)
 
-#### 🌐 Frameworks, Cloud & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -48,15 +48,12 @@ Email Me 👉 ✉️ **maharshsharma89@gmail.com** for collaborations, projects,
     *   Engineered rich visualization charts with Seaborn to identify major churn indicators and customer retention patterns.  
     *   Built and tuned predictive models using Artificial Neural Networks (ANN) to extract actionable business insights.
 
-#### 🌐 Web & Mobile Development
+#### 🌐 Web Development
 *   **E-Waste Management & Recycling Portal**  
-    *Tech Stack: HTML5, CSS3, JavaScript, Node.js, Firebase*  
-    *   Designed and built a clean, fully responsive frontend UI dedicated to managing domestic electronic waste collection.  
-    *   Integrated Firebase backend for smooth, live user authentication and real-time database synchronizations.
-*   **Health You - AI Mental Health Companion (Group Project)**  
-    *Tech Stack: Kotlin, Android SDK, Firebase*  
-    *   Co-developed a native Android app featuring intuitive, user-friendly UI flows for mental health tracking.  
-    *   Implemented automated mood-tracking logic, secure user authentication, and cloud-based data storage.
+    *Tech Stack: HTML5, CSS3, JavaScript*  
+    *   Designed and built a clean, fully responsive frontend user interface dedicated to managing domestic electronic waste collection systems.
+*   **Health You - AI Mental Health Companion (Group Project Project Integration)**  
+    *   Collaborated on building intuitive, user-friendly UI screens and structuring interactive automated mood-tracking logic.
 
 ---
 
@@ -90,7 +87,7 @@ Email Me 👉 ✉️ **maharshsharma89@gmail.com** for collaborations, projects,
 
 ### 🌐 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/harsh-sharma](https://linkedin.com/in/harsh-sharma)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/harsh-sharma-785268259/](https://www.linkedin.com/in/harsh-sharma-785268259/)
 - ✉️ **Email:** [maharshsharma89@gmail.com](mailto:maharshsharma89@gmail.com)
 - 📍 **Location:** Indore, Madhya Pradesh, India
 - ⚡ **Interests:** I love analyzing the Stock Market, exploring emerging deep tech trends, and playing/watching Cricket!
